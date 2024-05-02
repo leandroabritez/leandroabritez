@@ -1,10 +1,13 @@
 ### Hola, soy Leandro 👋
 #### Data Scientist | Data Analytics 💻  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Descripción del GIF" width="480" height="360">
+</p>
 
 - ♨️ Actualmente en **búsqueda activa** de empleo, aplicando mis conocimientos en variados proyectos.
 
-- 🛠️ He trabajado en diversos proyectos utilizando SQL y Python para manejar y analizar datos, además de visualizarlos con PowerBI.
+- 🛠️ He trabajado utilizando SQL y Python para manejar y analizar datos, además de visualizarlos con PowerBI.
   
 - 📫 Puedes contactarme a través de mi correo electrónico: [leandroabritez@gmail.com](mailto:leandroabritez@gmail.com)  
 
@@ -12,13 +15,21 @@
 
 ## My skill Set
 
-Python | SQL  
 
-PowerBI | Machine Learning | Matlab 
 
-Streamlit | Scikit-learn 
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="240" height="125" alt="GIF 1">
+  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="240" height="125" alt="GIF 2">
+  <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="240" height="125" alt="GIF 3">
+</div>
+
+<br>
+
+Python | SQL| PowerBI | Matlab 
 
 Google Cloud Platform | Doker 
+
+Machine Learning | Streamlit | Scikit-learn 
 
 Git | Github | Trello
 
