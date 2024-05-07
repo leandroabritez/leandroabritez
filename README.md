@@ -25,7 +25,7 @@
 
 <br>
 
-Python | SQL| PowerBI | Matlab 
+Python | SQL | PowerBI | Matlab 
 
 Google Cloud Platform | Doker 
 
