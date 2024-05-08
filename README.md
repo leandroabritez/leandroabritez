@@ -25,9 +25,9 @@
 
 <br>
 
-Python | SQL | PowerBI | Matlab 
+Python | SQL | HTML | CSS | Matlab 
 
-Google Cloud Platform | Doker 
+PowerBI | Google Cloud Platform | Doker 
 
 Machine Learning | Streamlit | Scikit-learn 
 
