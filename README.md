@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Descripción del GIF" width="480" height="360">
 </p>
 
-- ♨️ Actualmente en **búsqueda activa** de empleo, aplicando mis conocimientos en variados proyectos.
-- Data scientist con formación en ingeniería y experiencia en la coordinación de proyectos. He combinado mi reciente conocimiento en análisis de datos con mi experiencia en la gestión de proyectos eléctricos, administración de recursos y desarrollo de negocios. He trabajado aplicando SQL y Python para manejar y analizar datos, incluyendo su visualización con PowerBI. Además, he utilizado técnicas de **Machine Learning** para mejorar el análisis y la toma de decisiones.
+- ♨️ Actualmente trabajo en QSERVICES para el cliente GRUPO DASA como Desarrollador BI, aplicando mis conocimientos en variados proyectos.
+- Data scientist con formación en ingeniería y experiencia en la coordinación de proyectos. He combinado mi reciente conocimiento en análisis de datos con mi experiencia en la gestión de proyectos eléctricos, administración de recursos y desarrollo de negocios. Trabajo aplicando SQL y Python para manejar y analizar datos, incluyendo su visualización con Qlik Sense, PowerBI y otras. Además, utilizo técnicas de **Machine Learning** para mejorar el análisis y la toma de decisiones.
   
 
-- 🛠️ Acutalmente como freelance, realizo análisis de datos utilizando MySQL y Python para manejar y analizar datos de infracciones vehiculares.
+- 🛠️ Antiguamente como freelance, realicè análisis de datos utilizando MySQL y Python para manejar y analizar datos de infracciones vehiculares.
   
 - 📫 Puedes contactarme a través de mi correo electrónico: [leandroabritez@gmail.com](mailto:leandroabritez@gmail.com)  
 
@@ -27,7 +27,7 @@
 
 <br>
 
-Python | SQL | PowerBI | HTML | CSS  
+Python | SQL | PowerBI | Tableau | Qlik Sense | HTML | CSS  
 
 Machine Learning | Streamlit | Scikit-learn 
 
