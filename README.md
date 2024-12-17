@@ -5,7 +5,10 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Descripción del GIF" width="480" height="360">
 </p>
 
-- ♨️ Actualmente trabajo en QSERVICES para el cliente GRUPO DASA como Desarrollador BI, aplicando mis conocimientos en variados proyectos.
+- ♨️ Actualmente trabajo en QSERVICES para el cliente GRUPO DASA  como Desarrollador BI, aplicando mis conocimientos en variados proyectos. <img src="https://media.licdn.com/dms/image/C4E0BAQENRyaWSuU-Cg/company-logo_200_200/0/1644505570993/qservices_logo?e=2147483647&v=beta&t=qPDwGT-Tj7mNWORk7ESA8XYZsGodRDSsHHMINauzxcM" alt="QServices Logo" width="25">  <img src="https://futurodasaude.com.br/wp-content/uploads/2021/04/Novo-logo-Dasa-1024x576.jpeg" alt="Nuevo Logo Dasa" width="45"> 
+
+
+
 - Data scientist con formación en ingeniería y experiencia en la coordinación de proyectos. He combinado mi reciente conocimiento en análisis de datos con mi experiencia en la gestión de proyectos eléctricos, administración de recursos y desarrollo de negocios. Trabajo aplicando SQL y Python para manejar y analizar datos, incluyendo su visualización con Qlik Sense, PowerBI y otras. Además, utilizo técnicas de **Machine Learning** para mejorar el análisis y la toma de decisiones.
   
 
